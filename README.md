@@ -1,19 +1,17 @@
   Gruppo composto da: Cella Valerio e Ignizio Luca 
 # Progetto Maturità:
-  Creazione di un gioco 2D ispirato ad una serie tv.
-  
-  <b>TRAMA</b>
-  Questo gioco è basato sulla storia di 4 ragazzi, che avranno come obiettivo quello di sconfiggere il mostro, il demogorgone, che vive in   un mondo speculare, il sottosopra, un luogo tetro in cui è tutto l'inverso del nostro mondo.
- 
-<b> PROGRAMMI USATI</b>
- Per realizzare gli sprite dei personaggi con relative animazioni abbiamo utilizzato <a href=http://www.piskelapp.com/> piskel </a>
- Per realizzare il gioco in sè, invece, utilizzeremo Unity.
- 
- <b> UTILIZZO</b>
-  
- Per realizzare le animazioni si devono creare dei frame, pezzi di ciò che sarà il personaggio finale. Il procedimento è il seguenze:
-- Creare il personaggio di base in un frame e in seguito, nei successivi, duplicarlo ed eliminare le parti da animarle riscrivendole.
-Avendo già una base da cui attingere, tutto diventa più semplice, in quanto basta copiare i colori e le "misure" dei pixel dal precedente.
-
+  Creazione di un gioco 2D ispirato ad una serie tv intitolata Stranger Things.
+  <b> Trama </b> <br>
+  Questo videogioco ha come protagonista una serie di ragazzi il cui unico scopo è quello di sconfiggere attraverso dei combattimenti o       altre tipologie di azioni un mostro/i appartenenti ad un'altra dimensione definita il "sotto-sopra". 
+  <b> Programmi Utilizzati </b> <br>
+  Una parte del gioco in particolare quella grafica (sprite, sfondo, ecc. ecc.) è statta realizzata utilizzando un programa browser           chiamato piskel (<a href=http://www.piskelapp.com/>) invece l'altra parte del gioco cioè quella per la creazione effettiva dello stesso     è stata creata utilizzando Unity.
+  In sintesi i programmi utilizzati sono:
+  <li> Unity; </li>
+  <li> Compilatore (java, javascript, c++, ecc. ecc.) per la creazione degli script; </li>
+  <li> Piskel o altri programmi di creazione sprite. </li>
+  <b> Piskel </b> <br> 
+  Piskel è un programma lato browser che ti permetti di creare il tuo sprite pixel per pixel attraverso una serie di strumenti e ti dà la     possibilità di gestire frame per frame il tuo sprite in modo tale da poterlo animare per poi inserirlo nel tuo gioco.
+  <b> Unity </b> <br>
+  Unity (<a href=https://unity3d.com/>) è un ambiente di sviluppo per la creazione di videogiochi in 3D/2D per qualsiasi piattaforma.
 
  
