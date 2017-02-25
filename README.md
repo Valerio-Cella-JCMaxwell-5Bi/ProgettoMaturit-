@@ -4,7 +4,7 @@
   <b> Trama </b> <br>
   Questo videogioco ha come protagonista una serie di ragazzi il cui unico scopo è quello di sconfiggere attraverso dei combattimenti o       altre tipologie di azioni un mostro/i appartenenti ad un'altra dimensione definita il "sotto-sopra". <br>
   <b> Programmi Utilizzati </b> </br>
-  Una parte del gioco in particolare quella grafica (sprite, sfondo, ecc. ecc.) è statta realizzata utilizzando un programa browser           chiamato piskel invece l'altra parte del gioco cioè quella per la creazione effettiva dello stesso   è stata creata utilizzando Unity.     <br>
+  Una parte del gioco in particolare quella grafica (sprite, sfondo, ecc. ecc.) è statta realizzata utilizzando un programa browser           chiamato <a href=http://www.piskelapp.com/>piskel</a> invece l'altra parte del gioco cioè quella per la creazione effettiva dello stesso   è stata creata utilizzando <a href=https://unity3d.com/>Unity</a>. <br>
   In sintesi i programmi utilizzati sono:
   <li> Unity; </li>
   <li> Compilatore (java, javascript, c++, ecc. ecc.) per la creazione degli script; </li>
