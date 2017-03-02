@@ -11,7 +11,7 @@
   <li> Piskel o altri programmi di creazione sprite. </li> <br>
   <b> Piskel </b> <br> 
   Piskel è un programma lato browser che ti permetti di creare il tuo sprite pixel per pixel attraverso una serie di strumenti e ti dà la     possibilità di gestire frame per frame il tuo sprite in modo tale da poterlo animare per poi inserirlo nel tuo gioco. <br>
-  <b> Unity </b> <br>
+  <b> Unity  </b> <br>
   Unity è un ambiente di sviluppo per la creazione di videogiochi in 3D/2D per qualsiasi piattaforma.
 
  
