@@ -1,6 +1,9 @@
-  Gruppo composto da: Cella Valerio e Ignizio Luca 
+
+
+ Gruppo composto da: Cella Valerio e Ignizio Luca 
 # Progetto Maturità:
   Creazione di un gioco 2D ispirato ad una serie tv intitolata Stranger Things. <br>
+
   <b> Trama </b> <br>
   Questo videogioco ha come protagonista una serie di ragazzi il cui unico scopo è quello di sconfiggere attraverso dei combattimenti o       altre tipologie di azioni un mostro/i appartenenti ad un'altra dimensione definita il "sotto-sopra". <br>
   <b> Com'è nata l'idea </b> <br>
