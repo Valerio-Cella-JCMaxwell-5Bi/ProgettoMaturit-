@@ -17,5 +17,6 @@
   Unity è un ambiente di sviluppo per la creazione di videogiochi in 3D/2D per qualsiasi piattaforma. <br>
   <b> Collaboratori </b> <br>
   <li> Menabò Alessandro </li> <br>
+  <li> Caria Federico </li> <br>
 
  
